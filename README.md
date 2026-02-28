@@ -1,7 +1,9 @@
-<<<<<<< HEAD
+
 # TalentScout
 =======
-```markdown
+GITHUT LINK: https://github.com/pragya96009/TalentScout
+
+
 # 🎯 TalentScout — AI Hiring Assistant
 
 A conversational hiring assistant that handles the first round of candidate screening automatically. It collects candidate details, figures out their tech stack, and fires off relevant technical questions — all through a chat interface.
